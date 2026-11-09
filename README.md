@@ -135,9 +135,5 @@ This project provided practical experience in:
 
 This project was independently developed for educational and professional portfolio purposes. Financial projections and valuation estimates are based on modelling assumptions and should not be interpreted as investment advice or a recommendation to buy or sell Alphabet securities.
 
----
 
-**Author:** [Your Name]  
-**Project:** Alphabet Inc. — DCF Valuation & Financial Modelling  
-**Tools:** Microsoft Excel  
-**Company:** Alphabet Inc. (NASDAQ: GOOGL)
+
